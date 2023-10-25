@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba 
+# Prueba
+Este es un repositorio ingresando desde la  computadora y modificando su información
